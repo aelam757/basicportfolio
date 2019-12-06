@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    color: white;
+    background-color: maroon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200px;
+    font-style: italic;
+}
+#sect1 {
+    float:left;
+    
+}
+#sect2{
+    float: left;
+
+}
+#sect3{
+    float: right;
+
+}
+body {
+    background-image: url(https://www.ivanmorozov.com/img/s/v-10/p2362030035-3.jpg);
+    background-size: cover;
+}
+#container {
+    width: 1000px;
+    height: 500px;
+    background-color: white;
+    margin: auto;
+}
+#p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
